@@ -1,0 +1,139 @@
+{
+   "Armor":[
+      {
+         "id":1,
+         "name":"Iron armor1",
+         "lvl":1,
+         "ATT":1,
+         "DEF":2,
+         "AGI":0,
+         "MAG":0
+      },
+      {
+         "id":2,
+         "name":"Iron armor2",
+         "lvl":"Level 2",
+         "ATT":2,
+         "DEF":4,
+         "AGI":0,
+         "MAG":0
+      },
+      {
+         "id":3,
+         "name":"Iron armor3",
+         "lvl":"Level 3",
+         "ATT":3,
+         "DEF":6,
+         "AGI":1,
+         "MAG":1
+      },
+      {
+         "id":4,
+         "name":"Iron armor4",
+         "lvl":"Level 4",
+         "ATT":4,
+         "DEF":8,
+         "AGI":2,
+         "MAG":2
+      },
+      {
+         "id":5,
+         "name":"Iron armor5",
+         "lvl":"Level 5",
+         "ATT":5,
+         "DEF":10,
+         "AGI":2,
+         "MAG":4
+      },
+      {
+         "id":6,
+         "name":"Leather armor1",
+         "lvl":1,
+         "ATT":0,
+         "DEF":1,
+         "AGI":2,
+         "MAG":0
+      },
+      {
+         "id":7,
+         "name":"Leather armor2",
+         "lvl":"Level 2",
+         "ATT":0,
+         "DEF":2,
+         "AGI":3,
+         "MAG":0
+      },
+      {
+         "id":8,
+         "name":"Leather armor3",
+         "lvl":"Level 3",
+         "ATT":1,
+         "DEF":3,
+         "AGI":6,
+         "MAG":1
+      },
+      {
+         "id":9,
+         "name":"Leather armor4",
+         "lvl":"Level 4",
+         "ATT":2,
+         "DEF":4,
+         "AGI":8,
+         "MAG":2
+      },
+      {
+         "id":10,
+         "name":"Leather armor5",
+         "lvl":"Level 5",
+         "ATT":2,
+         "DEF":5,
+         "AGI":10,
+         "MAG":2
+      },
+      {
+         "id":11,
+         "name":"Magic rope1",
+         "lvl":1,
+         "ATT":0,
+         "DEF":1,
+         "AGI":0,
+         "MAG":2
+      },
+      {
+         "id":12,
+         "name":"Magic rope2",
+         "lvl":"Level 2",
+         "ATT":0,
+         "DEF":2,
+         "AGI":2,
+         "MAG":4
+      },
+      {
+         "id":13,
+         "name":"Magic rope3",
+         "lvl":"Level 3",
+         "ATT":1,
+         "DEF":3,
+         "AGI":3,
+         "MAG":6
+      },
+      {
+         "id":14,
+         "name":"Magic rope4",
+         "lvl":"Level 4",
+         "ATT":2,
+         "DEF":4,
+         "AGI":4,
+         "MAG":8
+      },
+      {
+         "id":15,
+         "name":"Magic rope5",
+         "lvl":"Level 5",
+         "ATT":2,
+         "DEF":4,
+         "AGI":5,
+         "MAG":10
+      }
+   ]
+}

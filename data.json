@@ -3,7 +3,7 @@
       {
          "id":1,
          "name":"Iron armor1",
-         "lvl":1,
+         "lvl":"Level 1",
          "ATT":1,
          "DEF":2,
          "AGI":0,
